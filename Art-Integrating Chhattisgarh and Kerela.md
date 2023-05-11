@@ -24,6 +24,9 @@
 1. **Bastar Palace** - The Bastar Palace was the residence of the erstwhile rulers of Bastar and is located in Jagdalpur. The palace is known for its unique blend of European and Indian architectural styles and has a rich history dating back to the 15th century.
 2. **Barnawapara Wildlife Sanctuary** - This sanctuary is located in the Mahasamund district of Chhattisgarh and is home to a variety of flora and fauna, including tigers, leopards, and elephants. The sanctuary also has several ancient temples and rock paintings.
 3. **Danteshwari Temple** - This temple is located in Dantewada and is dedicated to Goddess Danteshwari, a form of Goddess Parvati. The temple dates back to the 14th century and is one of the 52 Shakti Peethas in India.
+4. **Tirathgarh Waterfalls** - Located near Jagdalpur, the Tirathgarh Waterfalls is a popular tourist attraction in Chhattisgarh. The waterfall cascades down from a height of around 300 feet and is surrounded by lush greenery, making it a scenic spot for nature lovers.
+5. **Bhoramdeo Temple** - The Bhoramdeo Temple is an ancient temple dedicated to Lord Shiva and is located in Kabirdham district of Chhattisgarh. The temple complex has several shrines and is known for its intricate carvings and sculptures, making it a must-visit for history and art enthusiasts.
+
 
 ## Kerala:
 
