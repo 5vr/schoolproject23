@@ -52,4 +52,4 @@
 2. **Mohiniyattam** - This classical dance form is performed by women and is known for its graceful movements and facial expressions. The dance is usually accompanied by music played on instruments like the veena and mridangam.
 3. **Theyyam** - This ritualistic dance form is performed in the northern parts of Kerala and is usually performed in honor of the deity of a temple. The dancers dress up in elaborate costumes and makeup and perform acrobatic movements to the beat of the chenda drum.
 4. **Kummattikali** - This dance form is performed by men during the Onam festival. The dancers dress up in colorful attire and wear masks depicting various characters from Hindu mythology. The dance is accompanied by music played on instruments like the chenda and cymbals.
-
+5. **Snake Boat Races** - The Snake Boat Races, also known as Vallam Kali, are held during the Onam festival in Kerala. The race involves long, narrow boats that are rowed by teams of oarsmen, and is a popular sporting event in the state.
