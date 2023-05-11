@@ -1,3 +1,9 @@
 # Art-Integrating Chhattisgarh with Kerala under 'Ek Bharat Shreshtha Bharat'
 
-This repository is for a school project that focuses on integrating the art and culture of Chhattisgarh and Kerala as part of the 'Ek Bharat Shreshtha Bharat' initiative. The project aims to showcase the unique and diverse art forms of both states through various mediums such as paintings, photographs, and write-ups.
+This repository contains information about the project "Art-Integrating Chhattisgarh with Kerala under 'Ek Bharat Shreshtha Bharat'" for a school project. The project aims to showcase the similarities and differences in the historical places, culture, folk dances, and music of Chhattisgarh and Kerala.
+
+The repository includes information about the following:
+- Historical places in Chhattisgarh and Kerala
+- Traditional dance forms of Chhattisgarh and Kerala
+- Folk Music of Chhattisgarh and Kerala
+
