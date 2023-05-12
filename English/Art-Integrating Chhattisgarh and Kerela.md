@@ -42,7 +42,7 @@
 
 1. **Panthi** - This folk dance is performed in honor of Lord Shiva and is popular among the Satnami community in Chhattisgarh. The dance is usually accompanied by music played on instruments like the dholak, harmonium, and manjira.
 2. **Raut Nacha** - This dance form is performed by the Yadav community during the Bhagoria festival. The dancers dress up in colorful traditional attire and perform acrobatic movements to the beat of the dholak and manjira.
-3. **Karma** - This group dance and song form is performed during the Karma festival, which is celebrated to appease the deity of Karma. The performers dress up in colorful traditional attire and use instruments like the mandar and dholak.
+3. **Kaksar** - This traditional dance form is performed by the Gond tribe of Chhattisgarh. It involves rhythmic footwork, hand gestures, and body movements, accompanied by the beats of instruments like the mandar and dholak.
 4. **Saila** - This dance form is performed by the Gond community and is usually performed during the Hareli festival. The dancers dress up in colorful traditional attire and perform graceful movements to the beat of the dholak and manjira.
 5. **Cher-Chera** - This dance form is performed by the cowherd community and is usually performed during the Bhoramdeo festival. The dancers dress up in colorful traditional attire and perform energetic movements to the beat of the dholak and mandar.
 
