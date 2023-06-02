@@ -87,7 +87,7 @@
 ![Kaksar](https://github.com/5vr/schoolproject23/raw/master/images/kaksar.jpg)
 
 4. **Saila** - This dance form is performed by the Gond community and is usually performed during the Hareli festival. The dancers dress up in colorful traditional attire and perform graceful movements to the beat of the dholak and manjira.
-![Saila](https://github.com/5vr/schoolproject23/raw/master/images/saila.jpg)
+![Saila](https://github.com/5vr/schoolproject23/raw/master/images/saila.png)
 
 5. **Cher-Chera** - This dance form is performed by the cowherd community and is usually performed during the Bhoramdeo festival. The dancers dress up in colorful traditional attire and perform energetic movements to the beat of the dholak and mandar.
 ![Cher-Chera](https://github.com/5vr/schoolproject23/raw/master/images/cher-chera.jpg)
