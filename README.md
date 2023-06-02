@@ -50,12 +50,12 @@ g) Coal and petroleum resources in C.G. and Kerala.
 ## Social Science
 
 1. Make a Project on one of the topics– 
--Consumer Awareness
--Sustainable Development
--Social Issues
+    -Consumer Awareness
+    -Sustainable Development
+    -Social Issues
 
 2. Art integrated project on Kerala.
-	-Instructions
+    - Instructions
 	1. Use A4 size paper.
 	2. Maximum 6-7 pages
 	3. Use pictures, diagrams
@@ -68,7 +68,7 @@ g) Coal and petroleum resources in C.G. and Kerala.
 ## Drawing
 
 1. Make Flowerpot using waste materials like old bottle, plaster of paries, newspaper, clay, ceramic, etc. 
-	Note -
+	- Note -
 	-pot size 10  inches approx.
 	-Color and decorate it. 
 
