@@ -28,22 +28,22 @@ This repository contains work done for the holiday homework given by my school f
 
 ## Science
 
-1. Draw a labeled diagram of  the following on any one -
-a) Human digestive system
-b) Human respiratory system
-c) Internal structure of heart
-d) Human excretory system
+1. Draw a labeled diagram of the following on any one -
+    a) Human digestive system
+    b) Human respiratory system
+    c) Internal structure of the heart
+    d) Human excretory system
 
 2. Complete a science lab  manual.
 
 3. Make a project on art integrating C.G. with Kerala on any topic -
-	a) Sustainable management in C.G. and Kerala.
-	b) Project on any dam in C.G. and Kerala.
-	c) Conservation of biodiversity/wildlife in C.G. and Kerala.
-	d) Wildlife sanctuary in C.G. and Kerala.
-	e) Flora and fauna in C.G. and Kerala.
-	f) Ancient water harvesting system (is an old concept) in C.G. and Kerala.
-	g) Coal and petroleum resources in C.G. and Kerala.
+    - a) Sustainable management in C.G. and Kerala.
+    - b) Project on any dam in C.G. and Kerala.
+    - c) Conservation of biodiversity/wildlife in C.G. and Kerala.
+    - d) Wildlife sanctuary in C.G. and Kerala.
+    - e) Flora and fauna in C.G. and Kerala.
+    - f) Ancient water harvesting system (is an old concept) in C.G. and Kerala.
+    - g) Coal and petroleum resources in C.G. and Kerala.
 
 4. Draw a concept map of Chemical reactions and equations.
 
