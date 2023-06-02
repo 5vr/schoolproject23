@@ -4,7 +4,7 @@
 ## Chhattisgarh:
 
 1. **Pandwani** - This art form is performed by a group of artists, with one leading the narration and others accompanying with music. The musical instruments used in Pandwani include the dholak, harmonium, and manjira.
-![Bastar Palace](https://github.com/5vr/schoolproject23/blob/main/images/bastar-palace.png?raw=true)
+![Bastar Palace](./images/bastar-palace.png)
 2. **Faggeet** - This type of music is usually performed by women, who sing devotional songs in a group while clapping their hands. Faggeet is also an important part of the Hareli festival celebrated in Chhattisgarh.
 3. **Suha-Khayal** - This genre of music is a blend of classical and folk traditions, and the lyrics are usually romantic or devotional in nature. Some of the popular musical instruments used in Suha-Khayal are the sarangi, tabla, and harmonium.
 4. **Karma** - This group song and dance form is performed during the Karma festival, which is celebrated to appease the deity of Karma. The performers dress up in colorful traditional attire and use instruments like the mandar and dholak.
