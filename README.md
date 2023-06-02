@@ -37,13 +37,13 @@ d) Human excretory system
 2. Complete a science lab  manual.
 
 3. Make a project on art integrating C.G. with Kerala on any topic -
-a) Sustainable management in C.G. and Kerala.
-b) Project on any dam in C.G. and Kerala.
-c) Conservation of biodiversity/wild life in C.G. and Kerala.
-d) Wild life sanctuary in C.G. and Kerala.
-e) Flora and fauna in C.G. and Kerala.
-f) Ancient water harvesting system (is an old concept) in C.G. and Kerala. 
-g) Coal and petroleum resources in C.G. and Kerala. 
+	a) Sustainable management in C.G. and Kerala.
+	b) Project on any dam in C.G. and Kerala.
+	c) Conservation of biodiversity/wildlife in C.G. and Kerala.
+	d) Wildlife sanctuary in C.G. and Kerala.
+	e) Flora and fauna in C.G. and Kerala.
+	f) Ancient water harvesting system (is an old concept) in C.G. and Kerala.
+	g) Coal and petroleum resources in C.G. and Kerala.
 
 4. Draw a concept map of Chemical reactions and equations.
 
@@ -67,8 +67,7 @@ g) Coal and petroleum resources in C.G. and Kerala.
 
 ## Drawing
 
-1. Make Flowerpot using waste materials like old bottle, plaster of paries, newspaper, clay, ceramic, etc. 
+1. Make Flowerpot using waste materials like old bottle, plaster of Paris, newspaper, clay, ceramic, etc.
 	- Note -
-	-pot size 10  inches approx.
-	-Color and decorate it. 
-
+		- Pot size 10 inches approx.
+		- Color and decorate it.
