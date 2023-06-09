@@ -67,19 +67,12 @@ These crops reflect Kerala's agricultural prowess, commitment to diversity, and 
 
 ## II. Population
 
-### A. Literacy:
+![Traffic](https://images.newindianexpress.com/uploads/user/imagelibrary/2018/9/29/w600X390/Traffic_PTI.jpg)
 
-| Census | Population   | Literacy Rate | Religion                                           |
-|--------|--------------|---------------|----------------------------------------------------|
-| 2011   | 33.4 million | 94.0%         | Hindu (54.7%), Muslim (26.56%), Christian (18.38%) | 
-| 2021   | 34.2 million | 96.2%         | Hindu (53.9%), Muslim (27.0%), Christian (18.1%)   | 
+The given data represents the census data for the state of Kerala. The census was conducted in 2011 and 2022, providing information on the population, literacy rate, and religious composition of the state.
 
+In 2011, the population of Kerala was recorded as 33.4 million, with a literacy rate of 94.00%. The religious composition revealed that the majority of the population identified as Hindus, accounting for 54.7% of the total population. Muslims constituted 26.56% of the population, while Christians made up 18.38% of the population.
 
-### B. Religion:
-- Major religions followed in Kerala:
-- Percentage distribution of religious groups:
-  - Religion 1:
-  - Religion 2:
-  - Religion 3:
+In 2022, the population of Kerala had increased to 34.2 million, accompanied by an improved literacy rate of 96.20%. The religious composition experienced slight changes compared to 2011. Hindus remained the majority with 53.9% of the population, while the Muslim population increased to 27.0%. Christians accounted for 18.1% of the population.
 
-[Bar Graph: Percentage Distribution of Religious Groups]
+This census data provides insights into the demographic characteristics and religious distribution within Kerala over the specified time period, illustrating the changes in population size, literacy rate, and the relative proportions of different religious groups in the state.
