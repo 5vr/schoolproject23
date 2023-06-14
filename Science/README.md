@@ -50,5 +50,5 @@ In conclusion, the Hasdeo Bango Dam in Chhattisgarh and the Idukki Dam in Kerala
 
 5. TripAdvisor: https://www.tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_html.Chhattisgarh
 
-The comlete list of direct links can be accessed online via
-   https://github.com/5vr/schoolproject23/tree/master/Science#references
+The complete list of direct links can be accessed online via
+> https://github.com/5vr/schoolproject23/tree/master/Science#references
