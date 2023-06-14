@@ -14,7 +14,7 @@ The Hasdeo Bango Dam is a multi-purpose water project constructed in 1961-62 acr
 
 The Hasdeo River originates at an elevation of 910 meters above sea level, about 10 km from Sonhat in the Koriya district. The river has a total length of 333 km. The dam was built to serve multiple purposes, including irrigation, flood control, and power generation. It has played a significant role in the development of the region by providing water and electricity to the surrounding areas.
 
-![Bango-Dam-1](../images/bango-dam-1.png)
+![Bango-Dam-1](../images/bango-dam-1.jpg)
 
 ## Idukki Dam, Kerala
 
@@ -22,7 +22,7 @@ The Idukki Dam is a double curvature arch dam built across the Periyar River in 
 
 The Idukki Dam is a part of the Idukki Hydroelectric Project, which also includes two other smaller dams, the Cheruthoni and Kulamavu dams. The project has a total installed capacity of 780 MW, making it one of the largest hydroelectric projects in India. The dam serves multiple purposes, including power generation, irrigation, and flood control.
 
-![Idukki-Dam-1](../images/idukki-dam-1)
+![Idukki-Dam-1](../images/idukki-dam-1.png)
 
 ## Comparison and Integration
 
@@ -38,16 +38,17 @@ Furthermore, the two states can collaborate on research and development initiati
 
 In conclusion, the Hasdeo Bango Dam in Chhattisgarh and the Idukki Dam in Kerala are prime examples of how dams can play a crucial role in the development of a region. By integrating the knowledge, expertise, and best practices of both states, we can foster a spirit of national integration and mutual understanding, as envisioned by the "Ek Bharat Shreshtha Bharat" initiative. This collaboration can lead to the development of more efficient and sustainable dam projects, benefiting millions of people who rely on these dams for their livelihoods. Furthermore, it can pave the way for innovative research and development initiatives, as well as eco-friendly tourism opportunities that showcase the beauty and engineering prowess of these dams while promoting environmental conservation and sustainable development.
 
-## References
+## Bibliography
 
-"Wikipedia": https://en.wikipedia.org/wiki/Hasdeo_Bango_Dam
+1. Wikipedia: https://en.wikipedia.org/wiki/Hasdeo_Bango_Dam
 
-Power-technology.com: "https://www.power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india/
+2. Power-technology.com: https://www.power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india/
 
-"CSPC": https://cspc.co.in/cspc/cspgcl/powerstations/Hydel%20Plants/Bango/Hydel%20Plant%20Bango.htm
+3. CSPC: https://cspc.co.in/cspc/cspgcl/powerstations/Hydel%20Plants/Bango/Hydel%20Plant%20Bango.htm
 
-"Bharatpedia": https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
+4. Bharatpedia: https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
 
-"TripAdvisor": https://www.tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_html.Chhattisgarh
+5. TripAdvisor: https://www.tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_html.Chhattisgarh
 
-The comlete list of direct links can be accessed online via https://github.com/5vr/schoolproject23/#references
+The comlete list of direct links can be accessed online via
+   https://github.com/5vr/schoolproject23/tree/master/Science#references
