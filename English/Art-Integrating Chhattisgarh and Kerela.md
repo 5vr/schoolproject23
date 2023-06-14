@@ -9,7 +9,7 @@
 ![Faggeet](https://github.com/5vr/schoolproject23/raw/master/images/faggeet.png)
 
 3. **Suha-Khayal** - This genre of music is a blend of classical and folk traditions, and the lyrics are usually romantic or devotional in nature. Some of the popular musical instruments used in Suha-Khayal are the sarangi, tabla, and harmonium.
-![Suha-Khayal](https://github.com/5vr/schoolproject23/raw/master/images/suha-khayal.png)
+![Suha-Khayal](../images/suha-khayal.png)
 
 4. **Karma** - This group song and dance form is performed during the Karma festival, which is celebrated to appease the deity of Karma. The performers dress up in colorful traditional attire and use instruments like the mandar and dholak.
 ![Karma](https://github.com/5vr/schoolproject23/raw/master/images/karma.png)
