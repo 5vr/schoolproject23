@@ -40,15 +40,13 @@ In conclusion, the Hasdeo Bango Dam in Chhattisgarh and the Idukki Dam in Kerala
 
 ## Bibliography
 
-1. Wikipedia: https://en.wikipedia.org/wiki/Hasdeo_Bango_Dam
+1. Wikipedia: https://wikipedia.org/wiki/Hasdeo_Bango_Dam
 
-2. Power-technology.com: https://www.power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india/
+2. Power-technology.com: https://power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india/
 
 3. CSPC: https://cspc.co.in/cspc/cspgcl/powerstations/Hydel%20Plants/Bango/Hydel%20Plant%20Bango.htm
 
 4. Bharatpedia: https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
-
-5. TripAdvisor: https://www.tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_html.Chhattisgarh
 
 The complete list of direct links can be accessed online via
 > bit.ly/schoolproject23
