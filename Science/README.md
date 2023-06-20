@@ -49,4 +49,4 @@ In conclusion, the Hasdeo Bango Dam in Chhattisgarh and the Idukki Dam in Kerala
 4. Bharatpedia: https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
 
 The complete list of direct links can be accessed online via
-> bit.ly/schoolproject23
+> https://bit.ly/schoolproject23
