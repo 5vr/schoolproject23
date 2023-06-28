@@ -40,15 +40,27 @@ In conclusion, the Hasdeo Bango Dam in Chhattisgarh and the Idukki Dam in Kerala
 
 ## Bibliography
 
-1. Wikipedia: https://en.wikipedia.org/wiki/Hasdeo_Bango_Dam
+1. Wikipedia:
+	- https://wikipedia.org/wiki/Hasdeo_Bango_Dam
+	- https://en.wikipedia.org/wiki/Idukki_Dam
+	
+2. Power Technology:
+	- https://power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india
 
-2. Power-technology.com: https://www.power-technology.com/marketdata/power-plant-profile-hasdeo-bango-india/
+3. Chhattisgarh State Power Generation Company Limited:
+	- https://cspc.co.in/cspc/cspgcl/powerstations/Hydel%20Plants/Bango/Hydel%20Plant%20Bango.htm
 
-3. CSPC: https://cspc.co.in/cspc/cspgcl/powerstations/Hydel%20Plants/Bango/Hydel%20Plant%20Bango.htm
+4. Bharatpedia:
+	- https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
 
-4. Bharatpedia: https://en.bharatpedia.org/wiki/Hasdeo_Bango_Dam
+5. TripAdvisor:
+	- https://tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_Chhattisgarh.html
 
-5. TripAdvisor: https://www.tripadvisor.com/Attraction_Review-g2322234-d6864707-Reviews-Bango_Dam-Korba_Korba_District_html.Chhattisgarh
+7. Kerala State Electricity Board Limited:
+	- https://kseb.in/index.php?option=com_content&view=article&id=71&Itemid=723&lang=en
+
+8. Ministry of Human Resource Development, Government of India:
+	- https://mhrd.gov.in/ek-bharat-shreshtha-bharat
 
 The complete list of direct links can be accessed online via
-> https://github.com/5vr/schoolproject23/tree/master/Science#references
+> https://bit.ly/schoolproject23
